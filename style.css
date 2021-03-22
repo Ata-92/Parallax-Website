@@ -64,3 +64,20 @@ img {
   margin-top: 1rem;
   line-height: 1.8rem;
 }
+
+.footer {
+  opacity: .7;
+}
+
+.footer__image {
+  height: 100vh;
+}
+
+.footer__heading {
+  background-color: black;
+  color: #fff;
+  font-weight: lighter;
+  font-size: x-large;
+  letter-spacing: .5rem;
+  padding: 1rem;
+}
