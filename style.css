@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width: 100%;
+  opacity: .7;
+}
+
+.header__image  {
+  height: 100vh;
+  z-index: 0;
+}
+
+.header__heading {
+  background-color: black;
+  color: #fff;
+  font-weight: lighter;
+  font-size: x-large;
+  letter-spacing: .5rem;
+  padding: 1rem;
+  position: absolute;
+  top: 45vh;
+  left: 36vw;
+  opacity: .7;
+}
+
