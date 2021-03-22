@@ -27,3 +27,40 @@ img {
   opacity: .7;
 }
 
+#firstbox {
+  background-color: #F4F4F4;
+  color: #000;
+  text-align: center;
+  margin-top: -.25rem;
+  padding: 4rem;
+  opacity: .7;
+}
+
+.section__image {
+  z-index: 1;
+}
+
+.section__heading {
+  color: #fff;
+  font-weight: lighter;
+  font-size: x-large;
+  letter-spacing: .5rem;
+  padding: 1rem;
+  position: absolute;
+  top: 45vh;
+  left: 36vw;
+}
+
+.section__box {
+  background-color: #000;
+  color: white;
+  text-align: center;
+  margin-top: -.25rem;
+  padding: 4rem;
+  opacity: .8;
+}
+
+.section__box--text {
+  margin-top: 1rem;
+  line-height: 1.8rem;
+}
