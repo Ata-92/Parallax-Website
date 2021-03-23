@@ -5,7 +5,13 @@
 }
 
 .header {
+  height: 100vh;
   background-image: url(img/Image1.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: .7;
 }
 
 .header__heading {
@@ -18,23 +24,25 @@
   position: absolute;
   top: 45vh;
   left: 36vw;
-  opacity: .7;
 }
 
 .section2 {
+  height: 100vh;
   background-image: url(img/Image2.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: .7;
 }
 
 .section3 {
+  height: 100vh;
   background-image: url(img/Image3.jpg);
-}
-
-.section__box1 {
-  background-color: #F4F4F4;
-  color: #000;
-  text-align: center;
-  margin-top: -.25rem;
-  padding: 4rem;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   opacity: .7;
 }
 
@@ -58,13 +66,28 @@
   opacity: .8;
 }
 
+.section__box1 {
+  background-color: #F4F4F4;
+  color: #000;
+  text-align: center;
+  margin-top: -.05rem;
+  padding: 4rem;
+  opacity: .7;
+}
+
 .section__box--text {
   margin-top: 1rem;
   line-height: 1.8rem;
 }
 
 .footer {
-
+  height: 100vh;
+  background-image: url(img/Image1.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: .7;
 }
 
 .footer__heading {
