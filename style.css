@@ -9,10 +9,22 @@ img {
   opacity: .7;
 }
 
-.header__image  {
+.header {
   height: 100vh;
-  z-index: 0;
+
 }
+
+.header__image  {
+
+}
+
+/* .header__image::after {
+  content: "";
+  background-color: white;
+  opacity: 0;
+  position: absolute;
+  z-index: -1;
+} */
 
 .header__heading {
   background-color: black;
@@ -34,10 +46,6 @@ img {
   margin-top: -.25rem;
   padding: 4rem;
   opacity: .7;
-}
-
-.section__image {
-  z-index: 1;
 }
 
 .section__heading {
