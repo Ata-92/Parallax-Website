@@ -51,7 +51,9 @@
   font-size: x-large;
   letter-spacing: .5rem;
   padding: 1rem;
-
+  position: absolute;
+  top: 170vh;
+  left: 38vw;
 }
 
 .section__box2 {
@@ -81,7 +83,9 @@
   font-size: x-large;
   letter-spacing: .5rem;
   padding: 1rem;
-
+  position: absolute;
+  top: 270vh;
+  left: 37vw;
 }
 
 .section__box3 {
@@ -117,5 +121,7 @@
   font-size: x-large;
   letter-spacing: .5rem;
   padding: 1rem;
-
+  position: absolute;
+  top: 390vh;
+  left: 30vw;
 }
