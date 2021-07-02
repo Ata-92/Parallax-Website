@@ -20,9 +20,9 @@ Project aims to create parallax website.
         |----images
 ```
 
-## Expected Outcome
+## My Outcome
 
-![Project 003 Snapshot](Project_003_.png)
+![Parallax-Website](parallax-website.gif)
 
 ## Objective
 
