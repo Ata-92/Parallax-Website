@@ -78,7 +78,7 @@ Build a Landing that is functionally similar to this: [Parallax Website](https:/
 
 ## Resources
 
--  [Images](https://github.com/clarusway/cw-fs-workshop/tree/master/html-css/projects/003-parallax-website/img)
+-  [Images](https://github.com/Ata-92/Parallax-Website/tree/main/img)
 
 
 ## Happy coding!
