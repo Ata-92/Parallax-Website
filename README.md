@@ -1,6 +1,13 @@
-# Project-003 : Parallax Website (HC-03)
+# Parallax Website
+
+👉 [Parallax Website](https://ata-92.github.io/Parallax-Website/)
+
+## My Outcome
+
+![Parallax-Website](parallax-website.gif)
 
 ## Description
+
 Project aims to create parallax website.
 
 ## Problem Statement
@@ -19,10 +26,6 @@ Project aims to create parallax website.
         |----style.css   
         |----images
 ```
-
-## My Outcome
-
-![Parallax-Website](parallax-website.gif)
 
 ## Objective
 
